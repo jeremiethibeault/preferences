@@ -1,2 +1,2 @@
-# preferences
-Software preferences
+# Preferences
+Some software preferences
