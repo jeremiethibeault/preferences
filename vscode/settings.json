@@ -11,5 +11,7 @@
     "files.exclude": {
         "**/bin": true,
         "**/obj": true
-    }
+    },
+    "csharpextensions.privateMemberPrefix": "_",
+    "explorer.compactFolders": false
 }
